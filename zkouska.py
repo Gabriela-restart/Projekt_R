@@ -1,0 +1,1 @@
+print("nový začátek")
