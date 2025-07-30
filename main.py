@@ -76,6 +76,7 @@ if uzivatel in uzivatele and uzivatele[uzivatel] == heslo: # 2. zjistí, jestli 
                 pocet_cisel = 0
                 suma_cisel = []
                 soucet = 0
+                delka = 0
                 cetnost_delky = {}
 
                 for slovo in cista_slova:
